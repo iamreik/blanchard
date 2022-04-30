@@ -1165,7 +1165,7 @@ button {
 
 .choices__list--dropdown,
 .choices__list[aria-expanded] {
-  background: transparent;
+  background: #000;
 }
 
 .choices .choices__inner .choices__list .choices__item {
