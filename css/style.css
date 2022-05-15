@@ -1909,7 +1909,7 @@ button {
 }
 
 .projects__additional-text {
-  display: block;
+  display: inline-block;
 }
 
 .projects__new-line {
