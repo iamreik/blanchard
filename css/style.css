@@ -2349,7 +2349,7 @@ button {
   }
 
   .accord__list {
-    display: block !important;
+    display: block;
     flex-wrap: nowrap;
     width: 100%;
     max-height: none;
@@ -2835,7 +2835,7 @@ button {
     padding-bottom: 25px;
     max-height: 367px;
     flex-wrap: wrap;
-    display: flex !important;
+    display: flex;
     max-width: 671px;
     width: 100%;
     -moz-column-gap: 56px;
@@ -3076,7 +3076,7 @@ button {
     -moz-column-count: 1;
     column-count: 1;
     max-height: none;
-    display: block !important;
+    display: block;
   }
 
   .accord__empty-img {
